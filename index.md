@@ -1,5 +1,5 @@
-# Heading 1
-## Heading 2
+# Shishir's Page
+## Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 - [ ] Turn on GitHub Pages
